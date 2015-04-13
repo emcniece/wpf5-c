@@ -1,0 +1,6 @@
+[submodule "vendor/foundation"]
+	path = vendor/foundation
+	url = https://github.com/zurb/foundation.git
+[submodule "vendor/tgm"]
+	path = vendor/tgm
+	url = https://github.com/thomasgriffin/TGM-Plugin-Activation.git
